@@ -1,0 +1,998 @@
+
+Kindred contexts archives, archaeology, and the concept of provenance Bethany G. Anderson
+
+Vol.:(0123456789)
+Archival Science (2024) 24:761–781
+https://doi.org/10.1007/s10502-024-09459-5
+ORIGINAL PAPER
+Kindred contexts: archives, archaeology, and the concept 
+of provenance
+Bethany G. Anderson
+1
+ 
+Accepted: 8 August 2024 / Published online: 12 October 2024 
+© The Author(s) 2024
+Abstract
+The disciplines of archives and archaeology are each about the power of context: 
+they both preserve the context wherein objects and records are found and created 
+to  aid  in  their  interpretation  and  take  those  materials  as  evidence  of  context.  As 
+context-based disciplines, archives and archaeology foreground the concept of prov-
+enance and construct meanings about objects and records from contextual relation-
+ships. Context, which is related to but also distinct from provenance, is difcult to 
+disentangle  from  the  latter.  While  sometimes  confated  and  used  interchangeably, 
+subtle diferences distinguish the two concepts. This article explores the ways that 
+archives and archaeology employ the concepts of provenance and context, and the 
+messiness  with  which  they  do.  Fundamentally,  this  exercise  aims  to  understand 
+where they might share common ground while enriching discussion and fostering 
+introspection and cross-disciplinary exchange and suggest ways these felds might 
+rethink and extend their own uses of these concepts.
+Keywords  Archaeology · Archives · Context · Provenance · Provenience
+Introduction
+It could be said that the disciplines of archives and archaeology are each about the 
+power of context: they both preserve the context wherein objects and records are 
+found, created, and used to aid in their interpretation, and take those materials as 
+evidence  of  context.  As  context-based  disciplines,  archives  and  archaeology  con-
+struct meanings from contextual relationships. In this vein, archaeologists see con-
+text as a text to be read, the archaeological record as a record. Ian Hodder locates 
+this practice in an etymological understanding of context: “…placing of items ‘with 
+their texts’–‘con-text’. The general notion here is that ‘context’ can refer to those 
+parts of a written document which come immediately before and after a particular 
+ 
+*  Bethany G. Anderson 
+  bgandrsn@illinois.edu
+1
+  University of Illinois Urbana-Champaign, Urbana, IL, USA
+762
+  Archival Science (2024) 24:761–781
+passage, so closely connected in meaning with it that its sense is not clear without 
+them” (1986, p 128). Hodder goes further to note, “…archaeological objects are, 
+almost by defnition, situated in place and time and in relation to other archaeologi-
+cal objects. This network of relationships can be ‘read’” (1986, p 153). Similarly in 
+archives, context has been conceptualized as a sort of “text” in which records are 
+situated: “Records and archives provide evidence of decisions and activities. They 
+derive their meaning and value from a myriad of contextual relationships surround-
+ing  their  creation  and  use—relationships  that  have  to  be  documented  and  under-
+stood” (Cunningham 2008, p 532). Both examples illuminate that the relationships 
+in which an object or a record is enmeshed are part and parcel to their meaning.
+The concept of provenance is critical to both archives and archaeology. Context, 
+which is related to but also distinct from provenance, is difcult to disentangle from 
+the latter. Though frequently confated and used interchangeably, subtle diferences 
+distinguish  the  two  concepts.  In  archaeological  excavations,  for  example,  context 
+comprises a host of factors (i.e., physical components and spatial relationships) which 
+must  be  documented,  including  the  matrix,  the  exact  place  where  the  object  was 
+uncovered, and associations to other objects and features (Renfrew and Bahn 2004, 
+pp 48–60). Provenance (also sometimes referred to as provenience) typically denotes 
+the “fndspot” of an object (Joyce 2012, p 48). In archives, context is considered a 
+core  aspect  of  records  and  largely  viewed  as  the  circumstances  surrounding  their 
+creation, use, and interpretation (SAA 2023a), whereas provenance is defned as the 
+origins or chain of custody (SAA 2023b). Taken as a point of origin, provenance can 
+be understood as one moment in the trajectory of an object or record as part of its his-
+tory, creation, and use—and thus as one aspect of its context. Increasing recognition 
+of the diverse intellectual, social, and cultural circumstances in which objects and 
+records come into being and exist complicates a clear demarcation between the two 
+concepts in each of these felds. Objects and records often have complex histories, 
+and the relationships that defne their contexts are subject to evolution and change. 
+At the same time, the unique intellectual traditions of archives and archaeology each 
+make such a disentangling of context and provenance a difcult task. For example, 
+provenance is frequently reimagined by the archival community, extending and blur-
+ring its boundaries to reconfgure it as more fuid and expansive. Archival scholars 
+are enhancing and shifting our understandings of provenance to support historically 
+marginalized  communities  and  to  contest  and  rethink  the  concept  (e.g.,  Brilmyer 
+2022; McCracken and Hogan-Stacey 2023; Wurl 2005). These engagements desta-
+bilize and expand provenance. Such a rethinking imbricates provenance and context, 
+(further) entangling the two concepts but ultimately creating richer understandings of 
+and engagements with objects and records.
+Provenance and context make it possible to trace and understand the histories and 
+trajectories of objects and records and the network of relationships in which they are 
+embedded, aiding in their interpretation. While the concepts hold relevance in other 
+felds, such as art history, journalism, and computer science, this article focuses spe-
+cifcally on archives and archaeology because they share a vested interest in how 
+provenance and context are defned, redefned, and negotiated. Provenance and con-
+text are also arguably more relevant than ever to archives and archaeology. As we 
+763
+Archival Science (2024) 24:761–781 
+traverse an age of mis- and disinformation (e.g., News Provenance Project 2020), as 
+we grapple with AI technologies and “deepfakes” on the web (e.g., Gibson 2021), 
+as archival repositories and museums reassess the provenance of their collections 
+and reckon with their colonial legacies (e.g., Pogrebin and Bowley 2023; Punzalan 
+and de la Cruz 2022; Blouin 2022), and as archaeology seeks to be more inclusive 
+and  collaborative  (e.g.,  Acabado  et  al.  2017;  Colwell-Chanthaphonh  2012),  prov-
+enance and context have become more central to discourse on the information age 
+and cultural preservation, especially in guiding more ethical, inclusive, and produc-
+tive directions for that discourse.
+This article unpacks the distinct ways that archives and archaeology employ prov-
+enance and where they might share common ground as a means to enrich discussion, 
+introspection, and cross-disciplinary exchange. Context is integral to this discussion 
+given the interrelated nature of the two concepts and the uniqueness with which they 
+are imbricated and invoked. Archives and archaeology are distinct in their histories, 
+theories,  methodologies,  and  aims,  and  yet  they  are  in  many  ways  kindred;  they 
+are both oriented toward the material past through the objects they uncover and the 
+records they identify and transfer, and more broadly have a vested interest in histori-
+cal and cultural preservation. As mainstays for archives and archaeology—both of 
+which  foreground  the  origins  and  history  of  records  and  material  culture  in  their 
+analyses and documentation—these felds apply a wide variety of nuances and val-
+ues to the two concepts, often rethinking their use.
+Art history arguably bears relevance to this discussion—especially given its over-
+lap with archaeology when objects become the domain of art historical analyses—
+and much ink has been devoted to provenance as a lens for art historical scholar-
+ship (e.g., Mark 2019). Art history peels back the layers that surround a work of 
+art, shedding light on the social, cultural, political, and artistic contexts in which 
+it was created, the artist, the style, and other circumstances (Feigenbaum and Reist 
+2012). In many cases, provenance in art history is largely concerned with the chain 
+of custody and ownership and in ascertaining a work of art’s authenticity, especially 
+in the history of collecting (Milosch and Pearce 2019). These are also concerns for 
+archives  and  archaeology,  though  the  latter  two  share  an  especially  keen  interest 
+in the origins of an object or a set of records (fonds) and fnding, identifying, and 
+understanding relationships between objects and records in their original contexts 
+of creation and use. Objects and records are at the same time distinctive and kindred 
+because  they  are  evidence  of  human  activities.  Moreover,  archival  materials  and 
+archaeological fnds are embedded in a network of relationships with other objects, 
+records, ecological features, etc., that comprise their context and shed light on their 
+nature  (creation,  purpose,  use,  etc.).  Relationships  and  material  plurality  are  fun-
+damental to both archives and archaeology, not only as a refection of the realities 
+of objects and records, but also in how they are interpreted, and their meaning(s) 
+constructed.
+This  article  seeks  to  explore  commonalities  and  diferences  in  the  ways  that 
+archives and archaeology employ provenance and context and the messiness with 
+which they do. This exercise aims to shed light on what each feld might gain from 
+the other and how they might rethink their uses of these concepts. My inquiry into 
+the ways the two disciplines engage with objects and records through the concepts 
+764
+  Archival Science (2024) 24:761–781
+of provenance and context is propelled by my position as an archivist and a histo-
+rian with a background in anthropology and archaeology. This inquiry starts with 
+a  discussion  of  the  etymologies  of  “context”  and  “provenance”  and  their  current 
+defnitions in order to establish a foundation for understanding the ways in which 
+the concepts are distinct. I then examine provenance and context in both archives 
+and archaeology, discussing how the concepts have been used in distinct ways. This 
+review  focuses  on  the  historical  origins  of  the  concepts  and  their  developments, 
+reconfgurations,  and  entanglements.  It  does  not  intend  to  be  an  exhaustive  out-
+line; rather, it highlights key moments in the understanding and evolution of prov-
+enance and its relationship with context. Using this review as a point of departure, 
+I then discuss similarities and diferences in how archaeologists and archivists have 
+employed provenance and context, and thus shared concerns and areas for potential 
+cross-pollination. Each feld has used and developed the concepts in unique ways 
+from which the other can beneft. This article thus ultimately suggests that archives 
+and archaeology be in greater conversation with each other as a means to reconsider 
+how these concepts are applied to create a richer set of meanings for objects and 
+records.
+Disentangling provenance and context
+Context is both a nebulous and frequently used concept. On the one hand, it is dif-
+fcult to describe concretely, but on the other, its meaning is rarely lost on its recipi-
+ents.  Context  is  described  as  the  surrounding  circumstances,  the  “environment,” 
+or  “setting”  in  which  something  occurs  or  exists  (Merriam-Webster  n.d.).  Deriv-
+ing from the Latin contexere (meaning “to weave”) and contextus (meaning “con-
+nection”), context was initially used in a literary sense to denote text surrounding 
+a particular passage, and eventually the circumstances surrounding a text and his-
+torical events more broadly (Burke 2002). The concept was used in Marxism and 
+German hermeneutics, expressed through the word Zusammenhang
+1
+ as “the way in 
+which diferent beliefs, customs, and so on “hang together” (Burke 2002, p 158). 
+In this vein, context invokes conceptions of culture as a text to be read and inter-
+preted,  which  aligns  with  Cliford  Geertz’s  “literary”  view  of  culture  as  context 
+(1973,  pp  10,  14).  Context,  in  a  very  real  sense,  can  be  anything  and  everything 
+which  becomes  germane  when  one  seeks  to  understand  something  in  the  world. 
+Herbert H. Clark and Thomas B. Carlson observed that “the further its uses have 
+been extended, the murkier its denotation has become…[it] is a term that is use-
+ful precisely because it is vague and general and can accommodate many diferent 
+ideas” (1981, p 314). This vagueness makes context difcult to defne and yet a use-
+ful trope. Its etymology as “connection,” however, does illuminate what might oth-
+erwise be opaque meanings. Context assumes that one cannot understand an object, 
+an individual, or a phenomenon without drawing on related objects, individuals, and 
+1
+  Translates as “context” but also as “connection,” and “correlation.” See Terrell et al. (2004). 
+765
+Archival Science (2024) 24:761–781 
+phenomena. Context is, fundamentally, about relationships between things–relation-
+ships which elucidate and give meaning to each other.
+Context’s chameleon-like nature makes it useful to invoke in a variety of ways, 
+but this means its clarity is reliant on the degree to which its meaning can be rea-
+sonably inferred. The opposite, however, seems to be true for provenance. On the 
+surface, provenance appears much more straightforward and well understood. Origi-
+nating  from  the  French  for  “origin”  and  “production,”  and  from  the  Latin  prove-
+nire for “come forth, originate, appear, arise” (Online Etymology Dictionary n.d.c), 
+provenance refers to something coming into being. Provenience, a related term that 
+is largely used in archaeology, derives from the Latinization of provenance and has 
+essentially the same meaning (Online Etymology Dictionary n.d.d). Engagements 
+with provenance in both archival and archaeological discourse enhance this defni-
+tion to underscore the story about where and when something comes into being and 
+the journey it undergoes—all of which provides a richer picture of an item and the 
+ways it has been shaped by its history. Provenance does not (and should not) repre-
+sent merely one moment (i.e., creation) in the history of an object or a record (Millar 
+2002, p 8). Rather, the full history and journey that an object or record undertakes 
+from one place to the next creates a productive space in which to understand an item 
+and the meanings it has accrued over time. This is important to underscore because, 
+to a certain degree, provenance is time-dependent, and the most immediately per-
+ceived (or, the most recent) “source” of an item may difer depending on where it is 
+in its trajectory. For example, in a provenance study of commemorative scarabs from 
+the reign of Egyptian Pharaoh Amenhotep III, the provenance is described as the 
+last modern collection where they were held (Philips de-Jongh Collection, ca. 1969) 
+before being sold on the art market three decades later to presumably private collec-
+tions (Clayton 1996). Provenance is sometimes rendered as the last or most recent 
+source/location for materials because information about their histories and chains of 
+custody are often so fragmentary.
+Provenance  is  also  fundamentally  situational  and  placed-oriented—a  fact  that 
+spans diferent ways in which the word is invoked, and how the provenance of a 
+“thing” is rendered. An illustrative example is the distinctive female fgurine known 
+as the “Seated Woman” or “Mistress of Animals,” uncovered in 1961 during excava-
+tions of a shrine at the Neolithic/Chalcolithic site Çatalhöyük in Turkey (Mellaart 
+1963, pp 83, 93, 97). This fgurine has a provenance (or, a “provenience”) of a spe-
+cifc horizontal, vertical, and stratigraphic location in the ground where it was found 
+in the shrine in excavation level 2. Expanding out further, the fgurine also has the 
+provenance of the site itself (Çatalhöyük, Turkey) where it was found. At the same 
+time, the provenance can be the source of the raw materials from which the fgurine 
+is  made  (or,  more  precisely,  the  provenance  of  the  clay  the  fgurine  is  made  of), 
+and the geographical source from which that material derives (often determined by 
+examining its chemical properties). These can all be provenance information for the 
+fgurine, none which are exclusive. It is worth noting that the fgurine had a prov-
+enance before archaeologists found it and before a chemist or archaeologist analyzed 
+its material and chemical composition. The people and communities who created, 
+engaged with, traded or gifted, and cared for the fgurine understood its origin and 
+source in diferent terms. Its origins may have been a specifc creator or a sacred 
+766
+  Archival Science (2024) 24:761–781
+site. The provenance of the same item for one individual or group thus might difer 
+from that of another. Time and space are latent assumptions of provenance and the 
+meanings it accrues. Problematizing what is meant by “origin” and “source” can 
+encourage broader and more fuid conceptualizations that more accurately refect the 
+complex histories and realities of objects and records.
+Context is thus understood as relationships and interconnections between things 
+in the world which are crucial to their interpretation. Provenance, on the other hand, 
+seeks to answer questions about from where something came—not solely its origin 
+and source, but the journey and history by which it has been shaped. Based on these 
+defnitions alone, context and provenance are two distinct concepts. This provokes 
+the question about why they are frequently confated and/or used interchangeably. In 
+one important respect, provenance is shaped by contextual factors. Provenance is a 
+part of context, but, as far these defnitions are concerned, it is not the same as con-
+text. Case in point, the creator (the provenance) of an object or record is one point in 
+the web of relationships that surrounds the item (the context). Other contextual ele-
+ments—which are not the same as provenance—also afect the object or record. For 
+instance, one aspect of the fgurine’s context would be the archaeological tradition 
+that the excavator James Mellaart was working within, which infuenced his inter-
+pretation that the fgurine represented a mother goddess. As excavations at Çatal-
+höyük continued by a new team of archaeologists, and new evidence came to light 
+(which have fueled new interpretations infuenced, no doubt, by a diferent archae-
+ological tradition (see Tinning 2017)), this fgurine has more recently been inter-
+preted as indicative of the power of elders in society rather than of a mother goddess 
+cult  (Saini  2023).  This  additional  context—i.e.,  relationships  with  other  evidence 
+from the site (especially other fgurines), bundled together with specifc schools of 
+archaeological thought—has led to a diferent interpretation of the so-called Mis-
+tress of Animals.
+As an object or record travels through time and space, everything that happens to 
+it or that it encounters along the way forms new connections with which it becomes 
+linked. Over its 9000-year history, the Mistress of Animals fgurine accrued difer-
+ent meanings, formed diferent connections, and perhaps traveled to diferent places 
+before  being  deposited  in  the  shrine  where  it  was  uncovered  by  archaeologists. 
+Before being excavated by Mellaart, the fgurine’s journey through Çatalhöyük and 
+the community that created it remains unknown. What is known is that following 
+excavation it was taken from its shrine at Çatalhöyük and placed in the Museum 
+of  Anatolian  Civilizations  in  Ankara  where  it  is  currently  on  display.  This  infor-
+mation, albeit incomplete, comprises the fgurine’s known provenance. The artistic 
+design of the fgurine, the purpose for which it was made, its relationship to other 
+fgurines and objects in situ (and throughout the site as a whole and greater West 
+Asia),  and  the  archaeological  traditions  that  have  informed  its  interpretation  over 
+time are all examples of aspects of its context. Provenance would answer such ques-
+tions as: where is the fgurine from, who created it, where has it traveled? Context 
+would answer such questions as: for what purpose was the fgurine made, why was 
+it designed the way it was, what were the historical, social, cultural, economic, and 
+physical/environmental  circumstances  in  which  its  provenance  story  developed? 
+Context can be viewed as the cause for the fgurine’s existence, while provenance is 
+767
+Archival Science (2024) 24:761–781 
+an efect. It is the contextual relationships that shape its provenance, and thus what 
+can be known about it. Taken together, provenance and context provide a fuller pic-
+ture of the fgurine so that we understand where it came from, where it has been, 
+why it was fashioned in a specifc way, and the conditions that shaped it.
+The archival reconfguration of provenance
+Provenance and the centralization of archives
+Despite the ways in which provenance and context are distinct, when it comes to 
+a discussion of records, they have become entangled and confated in archival and 
+mainstream discourse. This entanglement surfaced in the latter half of the twentieth 
+century when archivists began to rethink provenance in an attempt to better repre-
+sent the complexities of archives in the world in which they exist (Douglas 2017, p 
+31). The reconfguration of provenance and its intertwining with context is related to 
+questions about what provenance really is—which, I argue, is connected to a sincere 
+desire to understand how a particular fonds is meaningful and why it matters.
+Before its establishment as an archival principle proper, provenance long existed 
+as a method (Horsman 2002, pp 4–10). Recognition of the importance of keeping 
+records together based on shared origins, functions, or activities survives in exam-
+ples from early societies in West Asia and North Africa. For instance, the personal 
+archives of a man named Ilim–ilimma from the town of Alalakh were kept and found 
+in  the  king’s  palace,  evidencing  his  importance  and  perhaps  his  connection  with 
+the royal family (Podany 2022, pp 343–344). Administrative records from the pal-
+aces, such as those found in Ugarit, were typically located in specifc rooms, often 
+(but not consistently) in interrelated aggregates that seem tied to specifc functions 
+(Whitt 1993
+2
+). In Mesopotamia, records in the form of clay tablets inscribed with 
+cuneiform were often kept in storage rooms in palaces or private residences—and 
+in cases where archaeological excavations documented the fndspots of records in 
+situ, their contents along with other objects and features in association can be exam-
+ined to ascertain provenance information (and provide context). Having information 
+about where records were stored and how they were kept together (i.e., arranged) is 
+critical to understanding their provenance and arguably refects a concern by ancient 
+recordkeepers  to  respect  des  fonds.  But  the  precise  reasons  why  certain  records 
+were stored and grouped together can evade modern understandings (Yeo 2021, pp 
+177–179). The storage and arrangement of records often serve more as evidence of 
+their  uses  and  the  activities  of  which  they  were  a  part,  rather  than  of  their  crea-
+tion, origins, and trajectories. As with all historial and archaeological evidence, an 
+incomplete picture remains until, and if, more evidence is uncovered.
+2
+  Whitt notes, however, what appears to be a rather haphazard arrangement of records in various rooms 
+throughout the palace, complicated by the fact that provenance was not always recorded by excavators. 
+Nonetheless, a kind of “original order” appears in some rooms based on a specifc activity or an indi-
+vidual’s afairs, page 123.
+768
+  Archival Science (2024) 24:761–781
+The practice of creating, keeping, and using archives has a long history, and soci-
+eties developed diferent ways to manage records. For example, there is evidence of 
+the registration of documents and “record group” arrangements from ancient Rome, 
+and the keeping of outgoing correspondence and the creation of inventories in the 
+Middle Ages (Posner 1972, pp 186–223; Posner 2006, pp 23–25). The administra-
+tion of archives was largely a decentralized afair, and it was not until the French 
+Revolution  that  archives  were  centrally  managed  by  the  state.  Ernst  Posner  notes 
+of this critical moment that “[t]he conception of general archives establishments as 
+places where records of the whole state administration, central as well as provin-
+cial, should be preserved did not and could not materialize until an external impulse 
+was  received  and  an  entirely  new  attitude  toward  archives  developed”  (2006,  p 
+25).  Provenance  emerged  as  a  formal  archival  concept  in  the  mid-late  nineteenth 
+century based on rules developed by French and Prussian state archives to group 
+together  records  with  a  shared  origin  (respect  des  fonds  in  1841  and  Provenien-
+zprinzip  in  1881,  respectively).  Its  emergence  is  largely  viewed  as  pragmatic  but 
+also in response to the importance accreted to understanding the origins of historical 
+sources (Douglas 2017, pp 27–30), perhaps due in part to the need for consistency 
+amid the large-scale central administration of records. The concept gained currency 
+when archives became conceptualized as an “organic whole, a living organism” due 
+to the Dutch Manual published in 1898 (Muller, Feith, and Fruin 2003, p 19, cited in 
+Douglas 2017, p 29), which advocated for keeping separate such “wholes.”
+These conceptions of archives and provenance, particularly in the Dutch Manual, 
+assumes a static quality to the “organic wholes” that exist in relatively stable envi-
+ronments, and whose arrangement refects the structure of the entity that created the 
+“whole.” Archivists in the latter half of the twentieth century began understanding 
+provenance in slightly diferent terms, as a more complex phenomenon. In North 
+America, provenance was initially debated and considered less crucial than it was to 
+Europeans archives where records stretched back centuries (Nesmith 1993). Man-
+aging records of considerable age and extent proved to not be the only argument 
+for  respecting  provenance;  archivists  in  the  USA  and  Canada  began  to  recognize 
+the utility of provenance in light of the challenges raised by information retrieval, 
+bureaucratic complexities, and electronic records (Nesmith 1993). This recognition, 
+too, gave rise to explorations of “…the full, rich, contextual power of provenance” 
+(emphasis  mine;  Nesmith  1993,  p  10).  Terry  Cook,  for  example,  argued  that  the 
+fonds is an intellectual and abstract construct, highlighting the multiple relationships 
+that surround records (1993). He noted that records which comprise a fonds are not 
+necessarily in one place—rather, they can be physically dispersed as a result of the 
+creator’s functions, uses, and activities. Cook alighted on the fact that provenance 
+needs to be mapped through “relationship linking” (Cook 1992, p 33), and that to 
+understand the fonds its context must be illuminated. Peter Scott’s earlier interven-
+tion in this space likewise acknowledged the plurality implicit in records creation, 
+namely through multiple creators (1966).
+Archivists  increasingly  foregrounded  context  as  part  and  parcel  to  under-
+standing  and  describing  fonds,  especially  through  “societal  and  intellectual  con-
+texts” (Nesmith 2002, p 35). This expansion of provenance to encompass societal 
+dimensions  emerged  from  realizations  that  Indigenous  peoples  were  the  creators 
+769
+Archival Science (2024) 24:761–781 
+of  archives  to  which  they  had  previously  not  been  attributed  (Nesmith  2015,  pp 
+286–287;  Nesmith  2006).  What  we  mean  when  we  talk  about  the  “origins”  of 
+records, and indeed, who is the creator requires transcending our own positionalities 
+and the limiting Western frameworks within which we operate. The postmodern turn 
+in archival discourse further propelled archivists to embrace the context of records, 
+to focus “on the context behind the content; on the power relationships that shape 
+the documentary heritage” (Cook 2001, p 25). This also led to new terms for prove-
+nance—for example, Tom Nesmith introduced “societal provenance” to describe the 
+social and cultural origins of records, describing a variety of contextual relationships 
+that shape those records (2006). Where does provenance begin and context end, and 
+vice versa, in Nesmith’s conceptual neologism? Is he in fact describing context and 
+not provenance? These ideas, no doubt, opened provenance up to the broad(er) pos-
+sibilities of context, paving the way for other archival conceptual expansions.
+Conceptual neologisms
+In  its  description  of  the  impetus  for  the  News  Provenance  Project,  the  New  York 
+Times poses the question: “As a news photo travels around the Internet, how might 
+we  ensure  the  full  context  of  that  photo  travels  with  it?”  (News  Provenance  Pro-
+ject 2020). Yet what the project describes as “context” resonates more closely with 
+provenance (e.g., editorial history, travel history across the internet, original news 
+source, creator, date of creation, etc.), despite both words being used interchange-
+ably on the site. One could argue that such a confation of terms when the whole 
+(context) is used to represent the part (provenance) is not as likely to cause confu-
+sion. Likewise, in the current archival literature provenance and context are used 
+interchangeably and frequently confated (Cline 2022, p 129), but in most of these 
+cases the part (provenance) is used to represent the whole (context). The archival 
+literature is replete with examples of provenance’s frequent reconfguration, stretch-
+ing its boundaries to create greater overlap with context. Like “societal provenance” 
+introduced by Nesmith, these reconfgurations have included proposals for hybrid 
+context–provenance neologisms. Lori Poldolsky Nordland, for example, introduced 
+“secondary provenance” to describe “…additional layers of context” for Ac ko mok 
+ki’s map (2004, p 149). Along similar lines, Heather MacNeil described context as 
+the  “framework  of  action  in  which  the  record  participates,”  an  element  of  which 
+is the notion of provenancial context, “…the creating body, its mandate, structure, 
+and functions” (2000, p 95). This defnition of provenancial context is one of four 
+types  of  contexts  defned  by  the  InterPARES  project.  The  latter  defnes  context 
+as the “framework in which a record is created, used, and maintained” and prov-
+enance as “the relationships between records and the organizations or individuals 
+that created, accumulated and/or maintained and used them in the conduct of per-
+sonal or corporate activity” (InterPARES Trust 2018). These two defnitions from 
+InterPARES, however, draw a faint line between context and provenance; context 
+is described in terms of its creation, use, and maintenance (though not in terms of 
+its origins, per se), whereas provenance is defned in terms of relationships. These 
+examples illuminate the ways in which provenance and context are often symbiotic, 
+770
+  Archival Science (2024) 24:761–781
+reconfgured, used interchangeably, and manifest as new terms to describe records 
+and their realities.
+Another  term  that  surfaces  in  discussions  about  archives  and  the  imbricated 
+nature  of  provenance  and  context  is  “archival  bond.”  Luciana  Duranti  describes 
+archival  bond  as  an  inherent  relationship  between  records,  conjuring  the  notion 
+of context. She cautions, however, that archival bond should not be equated with 
+context, given context’s external nature and the fact that archival bond represents 
+internal  relationships  within/between  records  critical  to  determining  their  mean-
+ing (1997, p 217). Archives derive meaning from their organic plurality, and are, 
+following Elio Lodolini, “…tied together by a necessary, primary, and determined 
+bond” (1989, p 40, see also Duranti 1997, footnote 8, p 216). For Duranti, archival 
+bond is akin to the connective tissue that incrementally forms as records in the same 
+aggregation are created as the result of the same activity through the actions of a 
+creator(s) (1997, p 216). Like MacNeil, Duranti foregrounds four diferent types of 
+contexts as germane to records: juridical/administrative context, provenancial con-
+text, procedural context, and documentary context. She notes that the latter, docu-
+mentary context, “…results from the totality of the archival bonds arising within 
+an  archival  fonds”  (p  217,  footnote  10).  Taken  together,  archival  bond  en  masse 
+comprises a specifc kind of context in a documentary sense, perhaps because these 
+bonds are external to each other in cases where bonds between materials in diferent 
+boxes or folders are concerned.
+Despite  Duranti’s  insistence  that  archival  bond  is  not  context,  it  nevertheless 
+bears a remarkable similarity to context in its core defnition. The defnition of con-
+text does not necessarily assume an inherent externality. Context is fundamentally 
+about  relationships  between  things,  which  is  also  central  to  the  idea  of  archival 
+bond. Moreover, the etymology of context grounds the word in an original literary 
+meaning in which diferent parts of the same text inform each other: “the parts of a 
+writing or discourse which precede or follow, and are directly connected with, some 
+other  part  referred  to  or  quoted”  (Online  Etymology  Dictionary  n.d.a).  The  leap 
+from the relationship between the same parts of a text to the relationship between 
+records in the same aggregation is a short distance. Similar to a text in which a par-
+ticular passage is analyzed and interpreted in light of the preceding or following pas-
+sages, so too can this defnition of context apply to records in aggregate which have 
+relationships with those records that precede or follow each other and would other-
+wise be conceptualized as sharing a bond. As discussed further below, archival bond 
+is in many ways similar to the notion context that is invoked in archaeology.
+Finding the human(ity) in provenance
+The  development  of  new  terminology  to  more  clearly  articulate  the  realities  of 
+records’ creation, use, and engagement re-envision provenance and context. These 
+re-envisionings  are  no  doubt  the  result  of  the  contested  place  provenance  has  in 
+archival theory and practice, especially because of its relationship with the concept 
+of the fonds, which has itself been much debated. Laura Millar, for instance, advo-
+cates for an expansion of provenance (and a decentering of the fonds) to include 
+771
+Archival Science (2024) 24:761–781 
+creator history, records history, and custodial history (2002), while Peter Horsman 
+seeks  to  (re)defne  provenance  in  terms  of  respect  des  fonds  (2002).  Others  have 
+advocated for new approaches to description and to the conception of the fonds. The 
+archival literature is also replete with acknowledgments that provenance is unsta-
+ble as a concept (e.g., Lemieux 2016, p 8), and that the reality of records requires 
+more expansive and generous thinking. Case in point, the International Council on 
+Archives’  Records  in  Contexts  (RiC)  conceptual  model  calls  for  an  expansion  of 
+the concept of provenance given the complexities of creatorship and of records to 
+one another in the digital age, noting that “[b]oth the fonds and the records con-
+tained in it exist in layers of interconnected contexts, past, present, and future” (RiC 
+IAD 2021). Along the way, new proposals for thinking about concepts of the fonds, 
+original order, and arrangement have been introduced and debated, making clear the 
+ways in which archival terminology is interconnected; thus, the reconfguration of 
+one term has implications for the broader archival terminological ecosystem.
+A fundamental reason why the archival community has moved toward reconfgur-
+ing provenance is to better represent and articulate accurate acknowledgements of 
+the social and intellectual factors that generate and shape records. It is important to 
+not forget the humanity integral to and within records, how they come into being and 
+change over time, and how we understand the relationships within which they are 
+enmeshed. There is also perhaps a practical dimension to the inevitable intertwining 
+of the two concepts; it would simply be impossible to adequately describe records 
+without drawing on known aspects of both their provenance and context. Part and 
+parcel to these re-conceptualizations of provenance is an expressed need to acknowl-
+edge the important role of context born out of necessity. The provenance of records 
+is contingent on place, time, and people. Records are vital components of communi-
+ties—and communities are vital components of records (Bastian 2003b). It matters 
+where records originate, especially to the communities who create and engage with 
+them (Bastian 2003a). Communities and records can also be dispersed, particularly 
+when considering intellectual networks of exchange, which has implications for how 
+we think about provenance (Anderson 2021). But provenance can be fragmentary 
+and thus our understanding of it incomplete. What is at stake in these cases is the 
+loss of humanity in records, or, conversely, one’s ability to gain an understanding 
+of the loss of humanity such records might evince. Little to no provenance informa-
+tion can create precarity in records, which speaks volumes about how the humanity 
+of minoritized individuals has been documented (or not) and perceived (Brilmyer 
+2022). Provenance has been arguably understood “to protect the context of records” 
+(Pan 2015, p 152). What is clear is that traditional conceptions of provenance, or 
+even provenance by itself, do not always adequately capture the people, places, and 
+intellectual traditions that shape records and in which they are documented.
+While not an exhaustive catalog of provenance (and context) in archival thought, 
+these  examples  challenge  archivists  to  think  about  what  provenance  is  and  is  not 
+and what it might aspire to be. At the same time, these examples require a care-
+ful consideration of the relationship between provenance and context, understand-
+ing where they are distinct, and how and when they might productively inform each 
+other. The ways in which provenance has been stretched and reconfgured as context 
+raises the question about why we are not using context in these cases to describe the 
+772
+  Archival Science (2024) 24:761–781
+rich and complex set of circumstances that give rise to records. Should these exam-
+ples encourage us to radically rethink provenance and embrace hybrid provenance-
+context neologisms? Or,  should  we  see provenance and  context as  fundamentally 
+inseparable? What can be said is that collapsing the space between provenance and 
+context  illuminates  the  archival  community’s  desire  for  a  more  expansive  under-
+standing of the breadth, complexity, and humanity in and of records.
+Provenance, Provenience, and Being in Archaeological Context
+Provenance, antiquarianism, and evolutionary change
+In  archaeology,  a  diferent  kind  of  terminological  landscape  has  developed.  Like 
+archives, provenance is a fundamental concept for archaeology. However, one nota-
+ble diference is archaeology’s use of its variant, provenience. While provenience 
+and provenance roughly have the same meaning, the ways in which they have been 
+used requires unpacking. Another way in which archives and archaeology difer is in 
+the latter’s more deliberate foregrounding of context, using it in a way that is clearly 
+distinctive  from  provenance/provenience.  Archaeology  has  also  devoted  less  ink 
+than archives to examining the conceptual nuances (and possibilities) of its termi-
+nology and the use of provenance and context (Lyman 2012). Nonetheless, as with 
+archival discourse, provenance and context in archaeology are deeply interrelated 
+and have a symbiotic relationship, and they are far from stable concepts.
+Archaeology  and  its  relationship  with  museums  and  museum  collections—and 
+the sometimes lack of or dubious provenance information—has resulted in questions 
+about the feld’s history. Interest in material evidence about the human past has a 
+long history, frst thought to be documented in the reign of the Neo-Babylonian king 
+Nabonidus in the sixth-century BCE (van Buren 1925; Bahn 2014). The practice of 
+collecting antiquities and performing amateur excavations also has a long and global 
+history (Bahn 2014). The material past has always had a presence in the daily lives 
+of people, and indeed, people today we would consider “ancient” reinscribed new 
+meanings on sites and material culture that were “historical” to them (Wade 2023), 
+in addition to collecting antiquities from their own cultures (Bahn 2014, p 2). How-
+ever, antiquarianism took a colonial turn in Europe’s early modern period, introduc-
+ing ideological constructs about power and alterity based on the consumption, in 
+part, of the material culture and heritage of the peoples from whom they looted and 
+took. Western powers, for instance, have repeatedly appropriated and taken the rich 
+material culture of Egypt’s pharaonic past, especially in the name of science (e.g., 
+Wilkinson 2020). To understand the deep legacies of colonialism in the excavation, 
+removal, and/or dispersal of ancient societies’ material culture, one only has to look 
+at the history of one of Egypt’s most famed and contested objects, the Rosetta Stone, 
+which remains displayed in the British Museum despite calls for it to be returned to 
+Egypt (Romo 2022). Today, archaeology faces a reckoning of its colonial roots, in 
+which provenance plays a critical role.
+As a Western scientifc discipline, archaeology emerged in the mid-late nine-
+teenth century as the professional scholarly study of humans and societies through 
+773
+Archival Science (2024) 24:761–781 
+material  culture  and  ancestor  remains  (Renfrew  and  Bahn  2004).  At  the  same 
+time that archaeology became a formalized discipline, ideas about evolutionary 
+change and natural selection gained traction following the publication of Charles 
+Darwin’s  Origin  of  Species  in  1859.  Such  ideas  no  doubt  infuenced  archaeol-
+ogy’s  development,  which  focused  on  placing  human  societies  and  their  mate-
+rial  culture  within  chronologies  and  classifcations  that  refected  notions  about 
+evolution  (Renfrew  and  Bahn  2004)—an  idea  that  has  evolved,  been  debated, 
+and become entrenched in how archaeology has been practiced. Indeed, archae-
+ologists would use evolution as a model for cultural development into the twen-
+tieth century. Leslie White, as a prominent example, advocated universal cultural 
+evolution as a framework for understanding human societies (Barnard 2000, pp 
+39–40). V. Gordon Childe made similar arguments based on cultural evolution, 
+but through a theory of historical change that was very much infuenced by Marx-
+ist ideas about development and production in what came to be known as “cul-
+ture-historical archaeology” (Jones 2002, p 12). Childe saw large-scale historical 
+and  cultural  change  progressing  through  marked  socioeconomic  shifts,  through 
+what he coined the “Neolithic Revolution” and the “Urban Revolution” in West 
+Asia.
+Other archaeologists and anthropologists moved away from grand models of cul-
+tural change. Instead, they focused on specifc local cultural developments through 
+the lens of historical-particularistic and ecological models, such as those proposed 
+by  Franz  Boas  and  Julian  Steward  (Barnard  2000,  pp  100–101).  Archaeology, 
+however, returned to its “scientifc” roots in the form of processualism in the mid-
+twentieth century (Wilson 1975, pp 1–26). Processual archaeology styled itself as a 
+scientifc approach to identify processes of cultural change and adaptation within a 
+set of economic, social, and environmental systems. Indeed, by drawing from sys-
+tems thinking, “[m]embers of the process school view human behavior as a point 
+of  overlap  (or  “articulation”)  between  a  vast  number  of  systems,  each  of  which 
+encompasses both cultural and noncultural phenomena” (Flannery 1967, p 120). It 
+asserted itself as an approach closely intertwined with the concerns of anthropology 
+(as it was conceptualized at that time) by drawing from the scientifc method as a 
+model for forming and testing hypotheses to answer specifc questions about cultural 
+change, seeing culture as its laboratory (Binford 1962).
+The criticism that processualism was positivistic and behavioristic—and too nar-
+rowly focused given that it did not take into account religious, symbolic, and social 
+phenomena—led  other  archaeologists  to  develop  alternative  ideas  in  the  1970s. 
+Post-processual archaeology, by contrast, eschewed grand narratives about change 
+and  “scientifc  objectivity.”  Infuenced  by  French  Marxist  anthropology,  structur-
+alism,  and  postmodernism  more  generally,  post-processual  archaeology  situates 
+itself as subjective and interpretative, and sees germane the ways in which gender, 
+identity, and power afect the archaeological record (Trigger 2006, pp 444–478). A 
+strand that emerged from this movement was contextual archaeology—an approach 
+developed  by  Ian  Hodder  that  holistically  considers  the  broad  cultural  context  of 
+archaeological data and the ways in which data are interconnected (Trigger 2006, 
+pp  455–456).  Contextual  archaeology  centers  context  as  an  abstract  concept  in 
+archaeological analysis, rendering the archaeological record as a text to be read and 
+774
+  Archival Science (2024) 24:761–781
+interpreted (Hodder 1986, pp 121-155). This approach ultimately situates archaeol-
+ogy as hermeneutics and the archaeologist as an interpreter of objects.
+Amid developments in archaeology in the late nineteenth century, provenience 
+began to be consistently employed as a concept (Kolb 2014, p 6173), roughly around 
+the same the time as the uptake of provenance as a principle by the archival pro-
+fession. Archaeologists came to increasingly view provenience as vital documenta-
+tion due to a variety of factors, especially interest by museums in purchasing objects 
+from excavations (which would have little research value sans provenience) and the 
+fact that the questions being asked of the archaeological record had begun to evolve 
+(Lyman 2012). These in turn infuenced feld methods and the extent to which (and 
+how)  an  object  was  documented  in  situ—i.e.,  in  “its  original  place  or  position” 
+(Online Etymology Dictionary n.d.b). As feld methods became more formalized, 
+so too did the principles underlying these methods, in tandem with the importance 
+accorded to the systematic collection of data for the study of successive change over 
+time. But with the post-processual turn in archaeology, context came to hold greater 
+relevance in archaeology, becoming arguably the centerpiece and guiding light of 
+the archaeological enterprise.
+Provenance and/or provenience?
+As aforementioned, provenance and provenience have the same meaning as “origin” 
+or “source,” but the latter is a Latinization of the word (Online Etymology Diction-
+ary n.d.d). Despite this shared defnition, archaeologists sometimes use these two 
+diferent  words  to  describe  the  same  thing—and  sometimes  to  describe  diferent 
+things altogether (even with the same word). It is not uncommon to see both prov-
+enance and provenience used interchangeably in archaeological discourse. Theoreti-
+cally, these words are variations of each other, though a deeper examination reveals 
+the ways in which tensions and conventions based on dialect, geography, and sub-
+feld permeate their use.
+Provenance has a tendency to be used for archaeological objects that have been 
+placed into art historical contexts (Joyce 2012, p 48). Provenience, on the other hand, 
+is a concept situated by place—i.e., the exact vertical, horizontal, and stratigraphic 
+location (or fndspot) of an object uncovered during excavation (Renfrew and Bahn 
+2004, pp 54, 111). It is an empirical data point, a precise physical location in a four-
+dimensional space. Prior to the nineteenth century, excavations had begun to record 
+location information but focused on the strata in which the objects had been found 
+rather than the precise spot; it was not until the late nineteenth century that prove-
+nience was considered to be important data to record (Lyman 2012, pp 213–215). 
+A study of archaeology textbooks spanning from 1904 to 2010 (mostly from North 
+America) indicates that provenience has been consistently used to denote “position” 
+or “location,” but it did not start being consistently defned until the 1970s (Lyman 
+2012, pp 220–221).
+Rosemary A. Joyce notes that in an art historical and museological vein, prov-
+enance is conceptualized as an object’s entire itinerary while provenience (the fnds-
+pot) is a fxed moment in an object’s history and therefore one point in its trajectory 
+775
+Archival Science (2024) 24:761–781 
+(2012, pp 48–49). They thus intersect at a specifc moment in an object’s history. 
+In the North American use of the terms, “[p]rovenance thus signifes the place of 
+origin for a material whereas provenience signifes where an object (regardless of 
+material type) is found” (Lyman 2012, p 211). However, even with this distinction 
+in mind, usage of the words varies in additional ways. Provenience is largely pre-
+ferred by archaeologists in North America, whereas provenance is favored by Euro-
+pean archaeologists to describe a fndspot (Joyce 2012, p 49). But the diferences do 
+not stop here. While provenience/provenance is commonly agreed as being about 
+an object’s origins, the convention in classical archaeological and art historical tra-
+ditions  is  to  see  provenance  as  akin  to  the  history  of  an  object—its  résumé  even 
+(Price and Burton 2011, p 213). Both terms are used to either describe the origin 
+of  an  object  or  the  precise  location  where  the  object  was  found  (as  an  empirical 
+data point). Once the object has been uncovered and removed from the place where 
+it was found, though, provenance appears to be more consistently used to describe 
+the itinerary and history an object has undergone, particularly in art historical and 
+museum settings.
+Provenience can also have slightly diferent meanings based on whether it means 
+where an object was uncovered (by archaeologists) or where it originated (its geo-
+chemical/material composition or source). Specifcally, archaeological chemistry is 
+concerned with the place of origin by analyzing the composition of an object and 
+tracing the geological source (Price and Burton 2011, pp 213–218). Such analyses 
+can attempt to determine where an object was made and by whom. But geochemi-
+cal  provenience  studies  can  answer  other  questions  by  analyzing  the  composition 
+of objects, such as the morphological typology of objects and the nature of ancient 
+technologies (e.g., Braekmans et al. 2019). And yet, sometimes provenance is used 
+to  describe  the  geochemical  framework  of  archaeological  analysis.  Charles  Kolb 
+describes provenance studies as “…a diagnosis of the origin of the materials that 
+comprise the object, the location or site where it was produced or fabricated, who 
+made it, and why and for what purposes. A related set of questions, often with com-
+plex answers, is how the object was relocated from its place of origin to location at 
+which it was recovered” (2014, p 6172). Usage varies further by subfeld. For exam-
+ple, historical archaeologists use provenance in a geochemical sense, and proveni-
+ence as the fndspot of the object during excavation (Hauser 2008, p 162, cited in 
+Kolb 2014). As these examples indicate, to understand what “provenance” and “pro-
+venience” might mean in any particular case minimally requires information about 
+dialect or geographical origin of the archaeologist and the tradition or subfeld of 
+archaeology in which it is being used.
+The power of context
+These diferences between provenance and provenience seem mostly driven by dia-
+lect,  geography,  and  subfeld.  Where  archaeology  does  appear  to  have  more  con-
+sensus is in its utilization of context, but even this term has evolved and come to 
+represent broader and more abstract relationships. Context in archaeology is the gen-
+erally articulated as the “four-dimensional, spatial–temporal matrix that comprises 
+776
+  Archival Science (2024) 24:761–781
+both a cultural and noncultural environment, and that can apply to a single artifact 
+or to a constellation of sites” but it has also been interpreted as the broader ecosys-
+tem or environment in which a site is enmeshed (Butzer 1980). Like provenience, it 
+manifests as a physical and specifc place in most defnitions, but it is much broader 
+and answers questions about not only where an object was uncovered, but what kind 
+of sediment it was located in, its association with other objects, etc. (Hirst 2018). 
+Context bundles together empirical provenience data and information such as infer-
+ences  made  about  objects  found  in  association  with  each  other  (Lyman  2012,  pp 
+212–213). In this sense, context is a unifying concept in archaeology, a means to 
+aggregate data and inferences to form the basis for interpretation. Like the concept 
+of archival bond, context places precedence on relationships between objects, espe-
+cially taken together as a whole. While the notion of the archaeological matrix-as-
+context appears to be a reasonably agreed upon and undisputed meaning, the term 
+has evolved in archaeological thought to encompass social, economic, and environ-
+mental factors (e.g., Johnsen and Olsen 1992). But even then, these interpretations 
+of  context  align  with  its  core  etymological  meaning,  taking  disparate  and  related 
+aspects of an object’s reality, relationships in which it is embedded, and “weaving 
+them together” to produce a fuller understanding and aid to interpretation.
+Context  as  a  concept  has  gained  specifc  prominence  with  the  development  of 
+contextual archaeology, which frmly established context as an abstract concept and 
+not just the physical matrix in which objects were deposited as being relevant to 
+archaeological  analysis.  Context,  which  is  always  shifting,  and  diferent  contexts 
+will prevail in diferent settings, will thus always be subject to the interpretation of 
+the archaeologist. But the interpretation of context requires a thorough process of 
+investigation: “[t]he task of the archaeologist is to go round and round the data in a 
+hermeneutic spiral, looking for relationships, ftting pieces of the jigsaw together” 
+(Shanks and Hodder 1995, p 15). Interpretation is a process and requires consider-
+ing multiple data points together with multiple relationships between them and other 
+objects and phenomena. Though not without its critics (e.g., Jones 2007, pp 78–84), 
+contextual  archaeology  illustrates  the  pitfalls  of  interpreting  archaeological  data 
+divorced from its cultural context (Trigger 2006, p 455). Its advocacy of archaeo-
+logical evidence as local, situated, contingent, and yet defned by interconnections 
+with a universe of data and phenomena seeks to open the archaeological record up 
+to a broad understanding of the human experience—both from the positionalities of 
+archaeologists and the past people whose lives they would interpret and understand.
+When archaeologists excavate a site and uncover objects, they fnd them in situ, 
+where they were deposited as part of their itinerary. Place is important in archae-
+ology,  both  in  terms  of  where  an  object  derived  (geographically,  etc.)  and  where 
+it  was  deposited  before  its  encounter  with  archaeologists.  Despite  the  messiness 
+with which provenance and provenience are employed, they still largely remain dis-
+tinct from context. Context, however, has both a materiality (in the case where it is 
+conceptualized as the matrix surrounding an object) and an intangibility where the 
+factors relevant to its existence and interpretation must be inferred from a variety 
+of relationships to the object in question. But context can be difcult to ascertain 
+(Thompson 2024), and provenance/provenience information can also be lost or left 
+undocumented. Much is at stake when this information is missing, but much is to be 
+777
+Archival Science (2024) 24:761–781 
+gained when it is carefully recorded. The tensions between provenance and proveni-
+ence reveal a desire to know and understand an object fully and the idiosyncrasies of 
+language and archaeology. This foregrounding of context, however, ultimately draws 
+archaeology and archives more closely together, underscoring how they are funda-
+mentally kindred. Archivists’ quests to reimagine provenance and intertwine it with 
+context is indicative of the same desire that archaeologists have to understand the 
+range of phenomena and relationships that shape the archaeological record through 
+approaches  like  post-processual  and  contextual  archaeology.  Each  of  these  felds 
+recognizes the complex world in which objects and records are created, used, and 
+interpreted, and that no object or record is an island.
+Toward a kindred context and provenance
+Elisabeth  Kaplan  argued  that  anthropology  and  archives  are  akin  in  many  ways, 
+particularly  as  agents  of  representation  and  power  (2002).  Archaeology  shares 
+these same traits with archives, and especially with respect to its orientation toward 
+the past. But, as this article demonstrates, they are fundamentally kindred in that 
+they both maintain a symbiotic relationship between provenance and context, and 
+the terminological messiness that can result from this relationship. They have each 
+approached this messiness in diferent ways, though, which arguably holds valuable 
+lessons  for  the  other.  Archives  has  illustrated  a  keen  desire  to  reimagine  its  con-
+ceptual landscape, recognizing the necessity of stretching the boundaries of prov-
+enance to capture a richer and fuller story for records. This has led to an inevitable 
+blurriness with the concept of context. Archaeology has sought to demarcate frm 
+boundaries between provenance and context, recognizing the utility and importance 
+for these distinctions. Archaeologists have also embraced context, realizing the ways 
+in which it is crucial to archaeological interpretation—both in the tangible, physi-
+cal sense, and in terms of the abstract forces and relationships that have shaped the 
+archaeological record. Yet, inconsistencies in the uses of provenance and proveni-
+ence have emerged in an attempt to describe (sometimes) slightly diferent aspects 
+of objects. What archaeologists might gain from archival ruminations with prove-
+nance is the perhaps the need to experiment with and develop new terminology as 
+a means to assuage the confusion to which this tension leads, and the encourage-
+ment to step outside of confnes of these terms and expand their possibilities—while 
+maintaining, of course, their lucid terminological landscape. Archivists, on the other 
+hand,  might  take  heed  of  the  clear  distinctions  between  context  and  provenance/
+provenience in archaeology, and ultimately come to consensus about what we mean 
+when we talk about provenance for archives without losing the richness of their re-
+imaginings of this concept.
+Michael Shanks and Ian Hodder note that “A pot without provenance is of lim-
+ited value to archaeological interpretation. It has long been recognized that placing 
+things in context is fundamental to understanding the past” (1995, p 14). Neither 
+archivists nor archaeologists would disagree with this statement. But what is impor-
+tant about what Shanks and Hodder illustrate in this case is the relationship between 
+provenance  and  context—a  relationship  that  itself  is  a  kind  of  context  which  is 
+778
+  Archival Science (2024) 24:761–781
+important  to  maintain.  Provenance  and  context  each  have  more  power—reinforce 
+each other, even—when taken together.
+Case in point, another notable way that archives and archaeology bear similar-
+ity relates to the process of removing/transferring records, objects, and environmen-
+tal samples from the original site(s) of creation and use. Although less destructive 
+methods  can  be  employed  in  lieu  of  excavation  (e.g.,  remote  sensing  methods), 
+archaeology  is  widely  described  as  a  destructive  science  because  a  site  must  be 
+destroyed in order to be understood. Likewise, archivists or creators/donors must be 
+very careful when removing records and transferring them to an archives to ensure 
+the original order of the materials is not lost (which is not to say that records are not 
+transferred to archival repositories in a variety of ways, and thus this is an idealistic 
+scenario). Following this removal (i.e., “excavation” in archaeology and “transfer/
+donation” in archives), neither archaeologist nor archivist can objectively “re-con-
+textualize” the objects or records (e.g., Jones 2002, pp 63–82). In both cases, the 
+context is destroyed, or lost, making it crucial to document the circumstances sur-
+rounding objects and records. Critical to this process is maintaining the relationship 
+between objects and/or records and documenting their “original” location and other 
+factors  and  circumstances  about  their  creation,  use,  and  maintenance.  In  an  ideal 
+world, all this information should be gathered, documented, and made available so 
+that we can know (and trust) what we see and develop our own interpretations. In 
+no small way, archives and archaeology share this same goal. But each stand to gain 
+greater understandings if they can encourage each other to be both a bit more precise 
+and a bit more expansive.
+Acknowledgments  The author wishes to acknowledge the Research and Publication Committee of the 
+University of Illinois Urbana-Champaign Library, which provided support for the publication of this 
+research.
+Declarations 
+Confict of interest  The author has no competing interests to declare that are relevant to the content of this 
+article.
+Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDeriv-
+atives 4.0 International License, which permits any non-commercial use, sharing, distribution and repro-
+duction in any medium or format, as long as you give appropriate credit to the original author(s) and the 
+source, provide a link to the Creative Commons licence, and indicate if you modifed the licensed mate-
+rial. You do not have permission under this licence to share adapted material derived from this article or 
+parts of it. The images or other third party material in this article are included in the article’s Creative 
+Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in 
+the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or 
+exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view 
+a copy of this licence, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
+References
+Acabado S, Martin M, Datar F (2017) Ifugao archaeology: collaborative and indigenous archaeology in 
+the Northern Philippines. Adv Archaeol Pract 5:1–11
+779
+Archival Science (2024) 24:761–781 
+Bastian JA (2003a) In a “house of memory”: discovering the provenance of place. Arch Issues 8:9–19
+Bastian JA (2003b) Owning memory: how a caribbean community lost its archives and found its history. 
+Conn., Libraries Unlimited, Westport
+Anderson BG (2021) On constructing a scientifc archives network: exploring computational approaches 
+to the cybernetics thought collective. Archivaria 91:104–147
+Bahn P (2014) The archaeology of archaeology: pre-modern views of the past. In: Bahn, P (ed) The His-
+tory of Archaeology: An Introduction. New York, Routledge
+Barnard A (2000) History and theory in anthropology. Cambridge University Press, Cambridge
+Binford LR (1962) Archaeology as anthropology. Am Antiq 28(2):217–225
+Blouin K (March 7, 2022) Ancient texts and conference cocktail party: some uncomfortable truths and 
+personal  thoughts.  Everyday  Orientalism,  https:// every dayor ienta lism. wordp ress. com/ 2022/ 03/ 07/ 
+ancie nt- texts- and- confe rence- cockt ail- party- some- uncom forta ble- truths- and- perso nal- thoug hts/
+Braekmans D, Boschloos V, Hameeuw H, Van der Perre A (2019) Tracing the provenance of unfred 
+ancient Egyptian clay fgurines from Saqqara through non-destructive X-ray fuorescence spectrom-
+etry. Microchem J 145:1207–1217. https:// doi. org/ 10. 1016/j. microc. 2018. 12. 029
+Brilmyer GM (2022) Toward a crip provenance: centering disability in archives through its absence. J 
+Contemp Arch Stud 9:1–25
+Burke P (2022) Context in context. Common Knowl 28(1):11–40
+Butzer KW (1980) Context in archaeology: an alternative perspective. J Field Archaeol 4:417–422
+Clark HH and Carlson TB (1981) Context for comprehension. In: Long, J (ed) Attention and Perfor-
+mance. Lawrence Erlbaum Associates, Hillsdale, NJ, , pp 313–330
+Clayton PA (1996) Some more ’ferce lions’ and a ’marriage’ scarab: the large commemorative scarabs of 
+Amenophis III. J Egyptian Archaeol 82: 208-210
+Cline S (2022) The archivist as translator: representation and the language of context. American Archi-
+vist 85(1):126-145. doi:10.17723/2327-9702-85.1.126
+Colwell-Chanthaphonh C (2012) Archaeology and indigenous collaboration. In: Hodder I (ed) Archaeo-
+logical Theory Today, 2nd edn. Polity, Cambridge, pp 267–291
+Cook T (1992) The concept of the archival fonds: theory, description, and provenance in the post-cus-
+todial era. In: Eastwood T (ed) The Archival Fonds: From Theory to Practice. Bureau of Canadian 
+Archivists. 31–85
+Cook T (1993) The concept of the archival fonds in the post-custodial era: theory, problems and solu-
+tions. Archivaria 35:24–37
+Cook T (2001) Fashionable nonsense or professional rebirth: postmodernism and the practice of archives. 
+Archivaria 51:14–35
+Cunningham A (2008) Digital curation/digital archiving: a view from the national archives of Australia. 
+Am Arch 71:530–543
+Douglas J (2017) Origins and beyond: the ongoing evolution of archival ideas about provenance. In: Mac-
+Neil H and Eastwood T (eds) Currents of Archival Thinking. Santa Barbara, CA, Libraries Unlim-
+ited. 25–52
+Duranti L (1997) The archival bond. Arch Museum Inform 11:213–218
+Expert group on archival description (2021), International Council on Archives. Records in Contexts: 
+Introduction to Archival Description
+Feigenbaum G and Reist I (2012) Introduction. In: Feigenbaum G and Reist I (eds) Provenance: An 
+Alternative History of Art. Los Angeles, Getty Research Institute
+Flannery KV (1967) Culture history versus cultural process: a debate in American archaeology. Sci Am 
+2:119–122
+Geertz C (1973) The interpretation of cultures. Basic Books, New York
+Gibson A (2021) Keeping it real: historians in the deepfake era. Perspectives on History https:// www. 
+histo rians. org/ resea rch- and- publi catio ns/ persp ectiv es- on- histo ry/ may- 2021/ keepi ng- it- real- histo 
+rians- in- the- deepf ake- era.
+Hauser MW (2008) An archaeology of black markets: local ceramics and economies in eighteenth-cen-
+tury Jamaica. University Press of Florida, Gainesville
+Hirst KK (2018) Understanding context in archaeology. ThoughtCo https:// www. thoug htco. com/ conte xt- 
+in- archa eology- 167155
+Hodder I (1986) Reading the past: current approaches to interpretation in archaeology, 2nd edn. Cam-
+bridge University Press, Cambridge
+Horsman P (2002) The last dance of the phoenix or the de-discovery of the archival fonds. Archivaria 
+54:1–23
+780
+  Archival Science (2024) 24:761–781
+InterPARES Trust (2018) Context. https:// inter pares trust ai. org/ termi nology/ term/ conte xt
+Johnsen H, Olsen B (1992) Hermeneutics and archaeology: on the philosophy of contextual archaeology. 
+Am Antiq 57(3):419–436. https:// doi. org/ 10. 2307/ 280931
+Jones A (2002) Archaeological theory and scientifc practice. Cambridge University Press, Cambridge
+Jones A (2007) Memory and material culture. Cambridge University Press, Cambridge
+Joyce RA (2012) From place to place: provenience, provenance, and archaeology. In: Feigenbaum G and 
+Reist I, Provenance: An Alternate History of Art. Los Angeles, CA, J. Paul Getty Trust. 48–60
+Kaplan E (2002) ‘Many paths to partial truths’: archives, anthropology, and the power of representation. 
+Arch Sci 2:209–220
+Kolb CC (2014) Provenance studies in archaeology. In: Encyclopedia of Global Archaeology, New York: 
+Springer
+Lemieux VL ed (2016) Building trust in information: perspectives on the frontiers of provenance. Cham, 
+Switzerland, Springer
+Lodolini E (1989) The war of independence of archivists. Archivaria 28:36–47
+Lyman RL (2012) A historical sketch on the concepts of archaeological association, context, and proveni-
+ence. J Archaeol Method Theory 19:207–240
+MacNeil H (2000) Trusting records: legal, historical, and diplomatic perspectives. Kluwer Academic 
+Publishers, Dordrecht
+Mark P (2019) Finding provenance, seeking context. Afriques. https:// doi. org/ 10. 4000/ afriq ues. 2752
+McCracken K, Hogan-Stacey S-S (2023) Decolonial archival futures. ALA Neal-Schuman/Society of 
+American Archivists, Chicago
+Mellaart J (1963) Excavations at Çatal Hüyük, 1962: second preliminary report. Anatol Stud 13:43–103
+Merriam-Webster  (n.d)  Context.  Accessed  Feb  3,  2024  https:// www. merri am- webst er. com/ dicti onary/ 
+conte xt
+Millar L (2002) The death of the fonds and the resurrection of provenance: archival context in space and 
+time. Archivaria 53:1–5
+Milosch J and Pearce N eds. (2019) Collecting and provenance: a multidisciplinary approach. Lanham, 
+MD, Rowman and Littlefeld
+Nesmith T (ed) (1993) Canadian archival studies and the rediscovery of provenance. NJ, Scarecrow Press 
+Inc, Metuchen
+Nesmith T (2002) Seeing archives: postmodernism and the changing intellectual place of archives. Am 
+Arch 65:24–41
+Nesmith T (2006) The concept of societal provenance and records of nineteenth-century aboriginal-Euro-
+pean relations in Western Canada: implications for archival theory and practice. Arch Sci 6:351–360
+Nesmith T (2015). Principle of provenance. In: Duranti L and P Franks (eds) Encyclopedia of Archival 
+Science. Lanham, MD, Rowman and Littlefeld, pp 284–288
+News Provenance Project (2020) Accessed March 17, 2023 https:// www. newsp roven ancep roject. com/
+Nordland LP (2004) The concept of “secondary provenance”: re-interpreting Ac Ko Mok Ki’s map as 
+evolving text. Archivaria 58:147–159
+Online Etymology Dictionary (n.d.a). Context. https:// www. etymo nline. com/ search? q= conte xt. Accessed 
+3 Feb 2024
+Online Etymology Dictionary (n.d.b). In Situ. https:// www. etymo nline. com/ search? q= in+ situ. Accessed 
+3 Feb 2024
+Online  Etymology  Dictionary  (n.d.c).  Provenance.  https:// www. etymo nline. com/ word/ prove nance. 
+Accessed 3 Feb 2024
+Online Etymology Dictionary (n.d.d). Provenience. https:// www. etymo nline. com/ search? q= prove nience. 
+Accessed 3 Feb 2024
+Pan W (2015) Context. In: Duranti L and P Franks (eds) Encyclopedia of Archival Science. Lanham, 
+MD, Rowman and Littlefeld, pp 150–153
+Podany AH (2022) Weavers, scribes, and kings: a new history of the ancient near east. Oxford University 
+Press, Oxford
+Pogrebin R and Bowley G (2023) After seizures, the Met sets a plan to scour collections for looted art. 
+The New York Times https:// www. nytim es. com/ 2023/ 05/ 09/ arts/ met- museum- looted- art. html
+Posner E (1972) Archives in the ancient world. Harvard University Press, Cambridge
+Posner E (2006) Archives and the public interest. Society of American Archivists, Chicago
+Price TD and Burton JH (2011) An introduction to archaeological chemistry. Cham, Springer Science 
+and Business Media
+781
+Archival Science (2024) 24:761–781 
+Punzalan RL, de la Cruz D (2022) Reparative approaches to Philippine collections at the University of 
+Michigan. Museum Int 74(3–4):72–81. https:// doi. org/ 10. 1080/ 13500 775. 2022. 22341 93
+Renfrew C, Bahn P (2004) Archaeology: theories, methods, and practice, 4th edn. Thames and Hudson, 
+New York
+Romo V (2022) Egyptians call for the return of the Rosetta Stone and other ancient artifacts. NPR. 
+https:// www. npr. org/ 2022/ 10/ 12/ 11282 88196/ egypt- calls- for- the- return- of- the- roset ta- stone- and- 
+other- ancie nt- artif acts
+SAA (2023a) Dictionary of archival terminology. Context. https:// dicti onary. archi vists. org/ entry/ conte xt. 
+html. Accessed 19 May 2023
+SAA  (2023b)  Dictionary  of  archival  terminology.  Provenance.  https:// dicti onary. archi vists. org/ entry/ 
+prove nance. html. Accessed 19 May 2023
+Saini  A  (2023)  I’ve  spent  a  decade  studying  gender  and  i  can  tell  you:  as  a  woman,  ageing 
+sets  you  free.  The  Guardian.  https:// www. thegu ardian. com/ comme ntisf ree/ 2023/ dec/ 29/ 
+gender- woman- ageing- free- female- power
+Scott PJ (1966) The record group concept: a case for abandonment. Am Arch 29(4):493–504. https:// doi. 
+org/ 10. 17723/ aarc. 29.4. y8860 54240 174401
+Shanks M and Hodder I (1995) Processual, postprocessual, and interpretive archaeologies. In: Ian Hodder 
+et al. (eds) Interpretative Archaeology: Finding Meaning in the Past. Routledge, London
+Terrell P, Schnorr V, Smith WVA, Breitsprecher R (2004) Collins German-English English-German Dic-
+tionary, Unabridged, 5th edn. Collins, New York
+Thompson, E (2024). Mighty Shiva was never meant to leave Manhattan. The New York Times. https:// 
+www. nytim es. com/ 2024/ 02/ 04/ opini on/ museu ms- artif acts- stolen. html
+Tinning, J (2017). Was there a belief in the mother goddess at Ҫatalhöyük? Ҫatalhöyük Research Project. 
+https:// www. catal hoyuk. com/ node/ 736
+Trigger BG (2006) A history of archaeological thought, 2nd edn. Cambridge University Press, Cambridge
+Van Buren ED (1925) Archaeologists in antiquity. Folklore 36(1):69–75
+Wade  L  (2023)  Archaeologists  study  what  ruins  meant  to  people  in  the  past.  Science 
+379(6639):1282–1283
+Whitt, WD (1993) Archives and administration in the royal palace of Ugarit. PhD Dissertation, Duke 
+University
+Wilkinson T (2020) A world beneath the sands: the golden age of egyptology. New York, W.W. Norton 
+& Company
+Wilson D (1975) The new archaeology: how new and revolutionary scientifc techniques are transforming 
+our study of the past. Knopf, New York
+Wurl J (2005) Ethnicity as provenance: in search of values and principles for documenting the immigrant 
+experience. Arch Issues 29:65–76
+Yeo G (2021) Record-making and record-keeping in early societies. Routledge, London
+Publisher’s Note  Springer Nature remains neutral with regard to jurisdictional claims in published maps 
+and institutional afliations.
+Bethany G. Anderson  is the Natural and Applied Sciences Archivist and Assistant Professor in the Uni-
+versity Archives and a PhD candidate in the Department of History at the University of Illinois Urbana-
+Champaign.  Her  research  focuses  on  histories  of  science,  anthropology,  cybernetics,  and  women  in 
+science, as well as computational approaches to archives. She holds a BA in Anthropology from the Uni-
+versity of Michigan, an AM in Near Eastern Art and Archaeology from the University of Chicago, and an 
+MS in Information Studies from the University of Texas at Austin. Her published work has appeared in 
+Archivaria, American Archivist, Journal of Open Humanities Data, Isis: A Journal of the History of Sci-
+ence Society, and Collections: A Journal for Archives and Museum Professionals.
